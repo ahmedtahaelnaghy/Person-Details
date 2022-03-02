@@ -9,12 +9,11 @@ import UIKit
 
 class ProfileDetailsViewController: UIViewController, Communicator {
     
-    
     @IBOutlet weak var personNameLbl: UILabel!
     
     @IBOutlet weak var personAgeLbl: UILabel!
     
-    @IBOutlet weak var personFacultyLbl: UILabel!
+    @IBOutlet weak var facultyLbl: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -27,17 +26,21 @@ class ProfileDetailsViewController: UIViewController, Communicator {
             
             vc.delegate = self
             
+            vc.name = personNameLbl.text!
+            vc.age = personAgeLbl.text!
+            vc.faculty = facultyLbl.text!
+
             self.navigationController?.pushViewController(vc, animated: true)
             
         }
         
     }
     
-    func editName(name: String, age: Int, faculty: String) {
+    func editDetails(name: String, age: Int, faculty: String) {
         
         personNameLbl.text = name
         personAgeLbl.text = String(age)
-        personFacultyLbl.text = faculty
+        facultyLbl.text = faculty
 
     }
 

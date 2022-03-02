@@ -10,7 +10,7 @@ import Foundation
 
 protocol Communicator {
     
-    func editName(name: String, age: Int, faculty: String)
+    func editDetails(name: String, age: Int, faculty: String)
     
 }
 

@@ -140,8 +140,8 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="facultyLbl" destination="Xfy-hd-KH1" id="BEQ-Dm-0H7"/>
                         <outlet property="personAgeLbl" destination="2Gi-Pl-Ys8" id="a5J-KZ-VIT"/>
-                        <outlet property="personFacultyLbl" destination="Xfy-hd-KH1" id="eZ2-e1-lxJ"/>
                         <outlet property="personNameLbl" destination="pop-UX-QOa" id="mKr-uY-QUR"/>
                     </connections>
                 </viewController>

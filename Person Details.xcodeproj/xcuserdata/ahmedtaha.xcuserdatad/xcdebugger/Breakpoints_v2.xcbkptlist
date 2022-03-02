@@ -7,8 +7,72 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7ADFAE30-1C9A-4E9A-9BFA-532EF8B53D1A"
-            shouldBeEnabled = "No"
+            uuid = "277749C5-FFAA-457F-A3AE-DC995FA86200"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "editBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06E112EE-F175-4A2F-AF2C-9D04C5354791"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "editBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E70DE62-CF0D-4C56-BF58-D1A204E4C91E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "editBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "555D6224-0A84-4669-8EF9-27A6779BC059"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "editBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "366FCBFA-81A9-4339-94D8-223A95165903"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Person Details/ProfileDetailsViewController.swift"
@@ -23,7 +87,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E5E158BF-396B-4437-914F-D6DABED7FF49"
+            uuid = "8A77AB8D-6BEF-4E76-996A-53CF5C9843ED"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -39,17 +103,545 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2519F495-ECC0-4CA1-AFDC-B7D71F11575F"
+            uuid = "DFA6D01D-454A-4027-9C07-FD004F84AE75"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Person Details/ProfileDetailsViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "editBtn(_:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02D7F57A-9C67-4161-AAB8-6077D759634F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF28D4E4-1542-4907-98ED-D6DD2D75EA3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2011A922-E4B6-4787-91E4-540BB5C13E27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A8AA12F-4D58-4963-A07E-40B81008129A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ProfileEditingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - 4f86c23ef9675930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.name.getter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - 21252ebe4d984e0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.name.setter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - 87e0376678b97191"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.name.modify : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - 64ac1a9763c6a909"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.name.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - c610fd0ecb267f65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Person_Details.ProfileEditingViewController"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "499">
+               </Location>
+               <Location
+                  uuid = "71F24B06-F946-4CB0-AB32-300FF2FA39CE - fb7bd455f11b404b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Person_Details.ProfileEditingViewController&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "443">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ProfileEditingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - 27c43f121b9aca0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.age.getter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - d00f47a28d9df980"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.age.setter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - fe1cc481e7b10064"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.age.modify : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - a548a009a13bb515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.age.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - c610fd0ecb267f42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Person_Details.ProfileEditingViewController"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "565">
+               </Location>
+               <Location
+                  uuid = "353DFD7E-BAA9-49A8-91C9-21330C85502F - fb7bd455f11b406c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Person_Details.ProfileEditingViewController&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "509">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4E5E632-2118-492C-8803-DEB6AE78F92C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ProfileEditingViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ProfileEditingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - 6ef4f23cccd1489c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.faculty.getter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - 5c69d4107bae5090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.faculty.setter : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - e2562024a89e05ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.faculty.modify : Swift.String"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - 1c512281b0c8bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.faculty.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - c610fd0ecb267fa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Person_Details.ProfileEditingViewController"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "631">
+               </Location>
+               <Location
+                  uuid = "3A110F72-8C4C-4228-B2B7-68212B4C6E12 - fb7bd455f11b408d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Person_Details.ProfileEditingViewController&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "575">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71F0762C-707E-4F84-B44D-8925512422BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70B1E998-7DEE-400B-8306-62D5A822F135"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Details/ProfileEditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ProfileEditingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - d839e890542ea15d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.delegate.getter : Swift.Optional&lt;Person_Details.Communicator&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - e2dc5fe081f0e129"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.delegate.setter : Swift.Optional&lt;Person_Details.Communicator&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - 22d4bcd063f33ef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.delegate.modify : Swift.Optional&lt;Person_Details.Communicator&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - b41ffae2b88957"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.delegate.modify : Swift.Optional&lt;Person_Details.Communicator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - c610fd0ecb267f27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Person_Details.ProfileEditingViewController"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "429">
+               </Location>
+               <Location
+                  uuid = "70B1E998-7DEE-400B-8306-62D5A822F135 - fb7bd455f11b4009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Details.ProfileEditingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Person_Details.ProfileEditingViewController&gt;"
+                  moduleName = "Person Details"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Desktop/Person%20Details/Person%20Details/ProfileEditingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "373">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

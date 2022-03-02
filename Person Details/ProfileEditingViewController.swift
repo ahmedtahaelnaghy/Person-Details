@@ -17,11 +17,18 @@ class ProfileEditingViewController: UIViewController {
         
     var delegate: Communicator?
     
+    var name :String = ""
+    var age :String = ""
+    var faculty : String = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-                
+        
+        personNameTextField.text = name
+        personAgeTextField.text = age
+        facultyTextField.text = faculty
+        
     }
-    
     
     @IBAction func saveBtn(_ sender: Any) {
         
@@ -40,7 +47,7 @@ class ProfileEditingViewController: UIViewController {
             
         }else {
             
-            delegate?.editName(name: name, age: age, faculty: faculty)
+            delegate?.editDetails(name: name, age: age, faculty: faculty)
 
         }
         
